@@ -12,7 +12,7 @@ import com.codeborne.selenide.WebDriverRunner;
 
 public class IecWebsite {
 	
-	private static IecWebsite instance;
+    private static IecWebsite instance;
 
     private IecWebsite() {
 
