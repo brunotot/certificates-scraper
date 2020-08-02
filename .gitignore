@@ -1,0 +1,7 @@
+application.properties
+.project
+.classpath
+/target/*
+/build/*
+/.settings/*
+/bin/*
